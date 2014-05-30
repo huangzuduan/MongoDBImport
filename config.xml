@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<!-- 数据库主机IP -->
+	<option name="dbHost" value="192.168.1.238" />
+	<!-- 数据库端口 -->
+	<option name="dbPort" value="3612" />
+	<!-- 数据库名 -->
+	<option name="dbName" value="test_config" />
+	<!-- 数据库用户名 -->
+	<option name="dbUser" value="XyhzYaowan" />
+	<!-- 数据库密码 -->
+	<option name="dbPass" value="XYHZ-Yaowan.com" />
+</configuration>

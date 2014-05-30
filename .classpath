@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="jar/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="jar/mongo-2.6.5.jar"/>
+	<classpathentry kind="lib" path="jar/jxl.jar"/>
+	<classpathentry kind="lib" path="jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="jar/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="jar/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="jar/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="jar/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="jar/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="jar/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="jar/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="jar/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="jar/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="jar/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="jar/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="jar/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
